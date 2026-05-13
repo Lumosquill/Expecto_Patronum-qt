@@ -1,4 +1,4 @@
-# Expecto Patronum 🪄
+# Expecto Patronum 
 
 > *呼神护卫 —— 哈利·波特主题 2D 弹幕射击游戏*
 
