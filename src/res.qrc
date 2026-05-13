@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>../assets/background.jpg</file>
+        <file>../assets/harry.png</file>
+        <file>../assets/startscene.jpg</file>
+        <file>../assets/Expecto-Patronum.png</file>
+        <file>../assets/Quit.png</file>
+        <file>../assets/Info.png</file>
+        <file>../assets/Start.png</file>
+        <file>../assets/Expecto-Patronum(1).png</file>
+        <file>../assets/Expecto-Patronum(2).png</file>
+        <file>../assets/dementor.png</file>
+        <file>../assets/spider.png</file>
+        <file>../assets/dementor bullet.png</file>
+        <file>../assets/felix felicis.png</file>
+        <file>../assets/time turner.png</file>
+        <file>../assets/spider bullet.png</file>
+        <file>../assets/player bullet.png</file>
+        <file>../assets/harry-mir.png</file>
+        <file>../assets/dementor-mir.png</file>
+        <file>../assets/bigdementor-mir.png</file>
+        <file>../assets/bigdementor.png</file>
+        <file>../assets/chocolatefrog.png</file>
+        <file>../assets/gameoverscene.jpg</file>
+        <file>../assets/GAME-OVER.png</file>
+        <file>../assets/sentence1.png</file>
+        <file>../assets/Try-Again.png</file>
+        <file>../assets/thoughtbubble1.png</file>
+        <file>../assets/thoughtbubble2.png</file>
+        <file>../assets/thoughtbubble3.png</file>
+        <file>../assets/thoughtbubble4.png</file>
+        <file>../assets/thoughtbubble5.png</file>
+        <file>../assets/thoughtbubble6.png</file>
+        <file>../assets/thoughtbubble7.png</file>
+        <file>../assets/thoughtbubble8.png</file>
+        <file>../assets/thoughtbubble9.png</file>
+        <file>../assets/thoughtbubble10.png</file>
+        <file>../assets/HPlabel.png</file>
+        <file>../assets/Manalabel.png</file>
+        <file>../assets/gamewinscene.jpg</file>
+        <file>../assets/ttk.ogg</file>
+        <file>../assets/ultimate_ttk.ogg</file>
+        <file>../assets/gamewin.mp3</file>
+        <file>../assets/gameover.mp3</file>
+        <file>../assets/Hedwig's Theme.ogg</file>
+        <file>../assets/button.mp3</file>
+        <file>../assets/triumph_sentence.png</file>
+        <file>../assets/info_page.jpg</file>
+        <file>../assets/info_page.png</file>
+        <file>../assets/victory.png</file>
+    </qresource>
+</RCC>
